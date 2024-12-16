@@ -1,0 +1,9 @@
+Name of Passenger | Contact No. | Journey From | Journey To | Date of journey|
+------------------|-------------|--------------|------------|----------------|
+Inder             | 9898989898  | Delhi        | Patna      | 12/12/2024 |
+Sachin            | 1212121212  | Delhi        | Mumbai     | 12/01/2025 |
+Sagar             | 9045902345  | GKP          | NDLS       | 02/01/2025 |
+Abhishek          | 9045745734  | NDLS         | Kashmir    | 01/01/2025 |
+Aman              | 9845679873  | Bihar        | Madhya     | 02/03/2025 |
+Himanshu          | 9887566478  | NDLS         | Prayagraj  | 12/04/2025 |
+Lucky             | 9876879845  | NDLS         | Kanpur     | 04/05/2025 |
